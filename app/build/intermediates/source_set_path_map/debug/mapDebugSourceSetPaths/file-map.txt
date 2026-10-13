@@ -1,0 +1,42 @@
+com.example.rastreadordegastos.app-lifecycle-viewmodel-ktx-2.6.2-0 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\06aec42a9ad64964d89bd39fe8a3ce24\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.rastreadordegastos.app-material-1.12.0-1 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\1443f0fa0cea07bb8078eb9cf2b2af8b\transformed\material-1.12.0\res
+com.example.rastreadordegastos.app-lifecycle-livedata-core-2.6.2-2 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\2b53c9d6806ca4f58e357cbc3c9b761b\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.rastreadordegastos.app-activity-1.10.0-3 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\3940e44f7b55bf222543102da697bd9a\transformed\activity-1.10.0\res
+com.example.rastreadordegastos.app-appcompat-1.7.0-4 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\39c38ac111c46e6edbe18deaf42e7342\transformed\appcompat-1.7.0\res
+com.example.rastreadordegastos.app-activity-ktx-1.10.0-5 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\44298913612582e7ac30627760ef4540\transformed\activity-ktx-1.10.0\res
+com.example.rastreadordegastos.app-emoji2-views-helper-1.3.0-6 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\46d35eaf17e2e383518f463a75dc3cb1\transformed\emoji2-views-helper-1.3.0\res
+com.example.rastreadordegastos.app-cardview-1.0.0-7 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\4b1fda53f85eccafb3390259142dc40d\transformed\cardview-1.0.0\res
+com.example.rastreadordegastos.app-core-1.15.0-8 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\4c50d38001646d7974a143aeafedf283\transformed\core-1.15.0\res
+com.example.rastreadordegastos.app-coordinatorlayout-1.1.0-9 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\50fb921c3836f86030a7fc3348d74fc4\transformed\coordinatorlayout-1.1.0\res
+com.example.rastreadordegastos.app-startup-runtime-1.1.1-10 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\549992adb5882447a8cf74a3ffcf0225\transformed\startup-runtime-1.1.1\res
+com.example.rastreadordegastos.app-emoji2-1.3.0-11 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\58099c9cab5863abab4b1fce0ee6ca41\transformed\emoji2-1.3.0\res
+com.example.rastreadordegastos.app-lifecycle-runtime-2.6.2-12 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\5d43cd1ac03b8a2d29f2060dbaff35d3\transformed\lifecycle-runtime-2.6.2\res
+com.example.rastreadordegastos.app-lifecycle-runtime-ktx-2.6.2-13 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\5e45ba4d2d42f331eb49a44a95cecf19\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.rastreadordegastos.app-drawerlayout-1.1.1-14 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\5ee619ebd7b25f47e69945c39049dc93\transformed\drawerlayout-1.1.1\res
+com.example.rastreadordegastos.app-transition-1.5.0-15 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\68d0ccaaee5e2b65c710b123cf56d9d0\transformed\transition-1.5.0\res
+com.example.rastreadordegastos.app-savedstate-1.2.1-16 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\6a07e211e818bcf6b4c2fc617455b3ab\transformed\savedstate-1.2.1\res
+com.example.rastreadordegastos.app-savedstate-ktx-1.2.1-17 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\6d34a393ef5737e24d247027d8f549f8\transformed\savedstate-ktx-1.2.1\res
+com.example.rastreadordegastos.app-core-runtime-2.2.0-18 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\7558f6676c6ecd8fc755b8af52dfe76d\transformed\core-runtime-2.2.0\res
+com.example.rastreadordegastos.app-customview-poolingcontainer-1.0.0-19 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\7c7b65ffa1ddcedf33be515549347e1f\transformed\customview-poolingcontainer-1.0.0\res
+com.example.rastreadordegastos.app-core-ktx-1.15.0-20 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\8e447e00ea1155cb913e8731ff75d104\transformed\core-ktx-1.15.0\res
+com.example.rastreadordegastos.app-tracing-1.2.0-21 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\99b61446d174d5b8f48025b4c705978c\transformed\tracing-1.2.0\res
+com.example.rastreadordegastos.app-profileinstaller-1.4.0-22 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\9f3ad99673d6ee7aa5be777002f42b6b\transformed\profileinstaller-1.4.0\res
+com.example.rastreadordegastos.app-lifecycle-livedata-core-ktx-2.6.2-23 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\a38f89d7c490f3a42ddf76622da1c01d\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.rastreadordegastos.app-constraintlayout-2.0.1-24 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\aa2841cd49a5ba0ad13e9280dec21ee0\transformed\constraintlayout-2.0.1\res
+com.example.rastreadordegastos.app-fragment-ktx-1.8.5-25 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\ac50671a43edac3c3c283a2b9e9cec63\transformed\fragment-ktx-1.8.5\res
+com.example.rastreadordegastos.app-lifecycle-viewmodel-2.6.2-26 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\b367dd482c5ca2a142f318f007337677\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.rastreadordegastos.app-fragment-1.8.5-27 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\bdab0793332cdd08449a17982d787011\transformed\fragment-1.8.5\res
+com.example.rastreadordegastos.app-lifecycle-viewmodel-savedstate-2.6.2-28 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\bfd35c27f149de12506d5fbea3f20951\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.rastreadordegastos.app-viewpager2-1.1.0-beta02-29 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\c0519fb2f52b82aad69bd793c1dab10c\transformed\viewpager2-1.1.0-beta02\res
+com.example.rastreadordegastos.app-lifecycle-livedata-2.6.2-30 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\c59d44fdf21b5f35d6eac6d0b63ce29b\transformed\lifecycle-livedata-2.6.2\res
+com.example.rastreadordegastos.app-annotation-experimental-1.4.1-31 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\c6c6db8dc0a03f46b5d21a7892e954db\transformed\annotation-experimental-1.4.1\res
+com.example.rastreadordegastos.app-recyclerview-1.3.2-32 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\cf3daa6ca9dd71c0b4a2decc08a8d3c3\transformed\recyclerview-1.3.2\res
+com.example.rastreadordegastos.app-lifecycle-process-2.6.2-33 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\d51a14657c971be56f0fad79b5b17c56\transformed\lifecycle-process-2.6.2\res
+com.example.rastreadordegastos.app-appcompat-resources-1.7.0-34 C:\Users\yeiso\.gradle\caches\9.6.0\transforms\fb67b64ed1c7a8bf524f5dea1080965a\transformed\appcompat-resources-1.7.0\res
+com.example.rastreadordegastos.app-pngs-35 D:\Ultimo semestre\HPM\rastreador_de_gastos\app\build\generated\res\pngs\debug
+com.example.rastreadordegastos.app-resValues-36 D:\Ultimo semestre\HPM\rastreador_de_gastos\app\build\generated\res\resValues\debug
+com.example.rastreadordegastos.app-packageDebugResources-37 D:\Ultimo semestre\HPM\rastreador_de_gastos\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.rastreadordegastos.app-packageDebugResources-38 D:\Ultimo semestre\HPM\rastreador_de_gastos\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.rastreadordegastos.app-debug-39 D:\Ultimo semestre\HPM\rastreador_de_gastos\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.rastreadordegastos.app-debug-40 D:\Ultimo semestre\HPM\rastreador_de_gastos\app\src\debug\res
+com.example.rastreadordegastos.app-main-41 D:\Ultimo semestre\HPM\rastreador_de_gastos\app\src\main\res

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="6dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Menú Dual"
+        android:textColor="@color/teal"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_profile"
+        android:text="Perfil"
+        android:textAllCaps="false"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_photos"
+        android:text="Fotos"
+        android:textAllCaps="false"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_video"
+        android:text="Video"
+        android:textAllCaps="false"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_web"
+        android:text="Web"
+        android:textAllCaps="false"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/menu_buttons"
+        android:text="Botones"
+        android:textAllCaps="false"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

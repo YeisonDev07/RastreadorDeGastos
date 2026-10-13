@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coral">#E87561</color>
+    <color name="cream">#FFF9F1</color>
+    <color name="ink">#17242A</color>
+    <color name="mint">#DDF4EF</color>
+    <color name="teal">#007F82</color>
+    <string name="app_name">Rastreador de Gastos</string>
+    <style name="Theme.RastreadorDeGastos" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/teal</item>
+        <item name="android:navigationBarColor">@color/cream</item>
+        <item name="android:statusBarColor">@color/cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorSecondary">@color/coral</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

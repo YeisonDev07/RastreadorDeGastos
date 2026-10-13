@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/drawable_img_foto3.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/drawable/img_foto3.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_reportes.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_reportes.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_explorer.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_explorer.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_registro.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_izquierda.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_izquierda.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_inicio.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_inicio.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_registro.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\drawable_bg_surface.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\drawable\\bg_surface.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_derecha.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_derecha.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_configuracion.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_configuracion.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/drawable_ic_dual_screen.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/drawable/ic_dual_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_item_foto.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\item_foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_derecha.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_derecha.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/menu_toolbar_menu.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/drawable_img_foto4.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/drawable/img_foto4.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_historial.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_historial.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/drawable_img_foto2.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/drawable/img_foto2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_reportes.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_reportes.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_explorer.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_explorer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\drawable_bg_avatar.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\drawable\\bg_avatar.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_historial.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_historial.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/drawable_img_foto1.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/drawable/img_foto1.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_izquierda.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_izquierda.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_item_gasto.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\item_gasto.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\layout_fragment_inicio.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\layout\\fragment_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-debug-39:\\drawable_bg_chip.xml.flat",
+        "source": "C:\\Users\\yeiso\\.gradle\\daemon\\9.6.0\\com.example.rastreadordegastos.app-main-41:\\drawable\\bg_chip.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_item_foto.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/item_foto.xml"
+    },
+    {
+        "merged": "com.example.rastreadordegastos.app-debug-39:/layout_fragment_configuracion.xml.flat",
+        "source": "com.example.rastreadordegastos.app-main-41:/layout/fragment_configuracion.xml"
+    }
+]
